@@ -1,0 +1,51 @@
+Estas son as notas da primeira reunión para falar da charla
+
+
+Intro SL
+========
+
+- 4 liberdades
+- porque é mellor que o privativo
+  - interactuar e preguntar a ver que opinan do software libre
+  - MELLOR CALIDADE: calquera pode contribuir, melloralo e forkear
+  - SEGURIDADE: calquera pode auditar
+  - PROPIEDADE COLECTIVO: non ser dependiente de 1 empresa. Ejemplo tienda zapatos
+  - PRECIO: tes o codigo e a liberdade de ir a outra empresa mellor ou mais barata e non gastas cartos en licencia
+  - porque é libre e mola mais
+  - podes usalo para o que queiras, tamen para cousas malas -> tipos licencias
+  - facilita o acceso ao software
+  - 3º sector para o 3º mundo -> o software libre é RSC
+  - modelos negocio -> expansion, soporte en vez de software, consultoria
+  - o sector TIC avanzou unha burrada polo SL
+  - pero seguimos sin ser totalmente libres (falar de que o libre está en todos lados pero non 100% en ningures)
+  - meter medo softwware libre + privacidade + portas traseiras
+
+co software libre aprendes e empezas a facer cousas mais aló da universidade/estudos -> enlaza con:
+
+Intro futuro laboral
+====================
+
+- Cárnicas e cousas de esas (brais: a min como non me gustan as carnicas son vexetariano)
+  - Pablo: rajar formación nas empresas tochas
+  - Brais: junior/senior/analista programador/analista
+  - subidas salariales -> cambiándote/amenazando! (brais: simil clientes de R para amagar irte)
+  - experiencia de brais en 3 empresas distintas
+  - Traballar en cliente é indicador de cárnica
+  - como recoñecelas? Meterte en meetups para coñecer xente/telegram de GPUL/asociacions
+- Nunca deixar de soñar e aprender -> Aspirar a traballar en sitios que fomenten esto
+Igalia, red hat, trabe, trileuco, icarto...
+- Normalmente mellor fora que en Galicia (+ sueldos, + variedad de curro) -> remoto
+- INGLES fundamental!!!!
+- Opción de emprender
+
+Cousas que podes facer mentras estudas
+======================================
+
+- asociacions/participar en rollos(charlas/hackathons)/representantes de alumnos
+   - e no software pasa o mesmo -> fuck the system
+- liberar TFG/TFM/COUSAS RANDOM -> Concursos
+- GSOC, e participar nun proxecto SL
+  - o teu TFG pode ser participar nun proxecto existente, o GSOC tamen
+  - leer codigo de outra xente + ingles
+- Viaxar -> eventos!!
+- Practicas/experimentos para aprender/slides... -> GitHub/GitLab -> Tu curriculum
