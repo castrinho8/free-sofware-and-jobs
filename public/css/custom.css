@@ -1,0 +1,12 @@
+
+
+h2,
+p,
+ul {
+  padding: 10px 0 !important;
+}
+
+ol,
+ul {
+  text-align: left;
+}
