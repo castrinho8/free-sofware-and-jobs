@@ -10,3 +10,11 @@ ol,
 ul {
   text-align: left;
 }
+
+.reveal section .imageWithLink {
+  padding-left: 1em;
+}
+
+.reveal section .imageWithLink img {
+  padding: 0 !important;
+}
